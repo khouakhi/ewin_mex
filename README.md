@@ -1,6 +1,6 @@
 ## EWIN RiverCore training
 
-This following notebooks, illustrate how to prepare the EWIN RiverCore sensor network data in python and implement some basic machine learning models for short range water prediction at given node.
+The following notebooks, illustrate how to prepare the EWIN RiverCore sensor network data in python and implement some basic machine learning models for short range water prediction at given node.
 
 The demos are based on only few data points at the moment, the sensor network started measurements only recently. The raw data is in zipped folders and sub-folders and contain many inconsistencies.
 
